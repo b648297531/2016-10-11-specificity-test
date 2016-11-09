@@ -1,4 +1,8 @@
 
+
+#################### **** Obsolete !!!!!
+#################### **** 6_heatmap_euclidean_distance.R do the same thing with mean
+
 ### Identify fluorescence protein based on root mean distance to reference population
 
 
